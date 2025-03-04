@@ -22,7 +22,7 @@ Para que seja possivel rodar o projeto será necessario:
 ## Rodando o projeto passo a passo
 
 - Faça o download ou o gitclone do repositório
-- Acesse a pasta buscar-cep
+- Acesse a pasta buscar-cep-ag
 - Abra o terminal e execute npm install ou yarn install
 - Ao final da instalação rode npm start ou yarn start. Isso ira depender de qual gerenciardor de pacote voce escolheu para utilizar.
 - Verifique se o projeto esta rodando.
